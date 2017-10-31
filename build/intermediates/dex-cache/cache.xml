@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\d214889be7b49344d4da2a752609592f25ddaacb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce498089c76e42d5d154c105c965e7cb95e6d112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\f3f7af26278fa99afe169eced06d3a8df4893e85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c17edd23a89c4a3c33b3e42ea3436721ade9ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\da7b185fd1e0a976a7048ce82f26873a30349957\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_444b386b4ac1f1ff0c92aab57260d2ad13599c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\ba5f2b5df58e178ea4df92c7ca02d8e1ff1b27ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50e21252d3cd01d419fbd826e571a7855f51df42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\d1b0320932c59119b5b17580d140c2e636b572a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8abf049d7298b6698dd99c431ce5b229ec149c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\da7b185fd1e0a976a7048ce82f26873a30349957\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0654180a3122c28adeb61fc90c48a9ab2d3be3cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\1cf0fc009519ad98816f289f47503666a835e947\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc7e1873338f433098fc419db007d7de0cfeb094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="185af266589b4d791728cffa503d54f4898ca279">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1c935af9bb1a008af4b46cf923a096669e15ff03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fcd511175ff36897234b728a959c92c2e899c0e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_51c6cf48ff5a2c7a5aeb3fce0c4c1a0490869f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\.android\build-cache\e00e19eb88044a10b5d76c0a5ae0dd8efde73b2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb72f21b0281982c70b1144e43516ca330150824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hp\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProjects\RiderApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e99421f7c96ede6a42ff2184b030324290d08908\classes.dex" />
+    </item>
+
+</items>
